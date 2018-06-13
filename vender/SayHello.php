@@ -1,6 +1,6 @@
 <?php
 
-namespace package\vender;
+namespace SayHello;
 
 class SayHello 
 {
