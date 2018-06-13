@@ -1,11 +1,11 @@
 <?php
 
-// namespace SayHello;
+namespace Hello;
 
 class SayHello 
 {
     public function test()
     {
-        echo 'test';
+        echo 'composer 你好呀！！！';
     }
 }
