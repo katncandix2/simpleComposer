@@ -1,11 +1,11 @@
 <?php
 
-namespace SayHello;
+// namespace SayHello;
 
 class SayHello 
 {
-    public function SayHello()
+    public function test()
     {
-        echo 'hello Composer';
+        echo 'test';
     }
 }
